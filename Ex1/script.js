@@ -17,7 +17,7 @@ class Game {
                 alert("Higher.");
             } else if(answer>this.number_to_guess) {
                 alert("Lower.")
-            } else {
+            } else if(answer===this.number_to_guess) {
                 alert("You win");
                 return false;
             }
