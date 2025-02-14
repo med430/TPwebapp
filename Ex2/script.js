@@ -1,5 +1,3 @@
-import 'node_modules/bootstrap/dist/css/bootstrap.css';
-
 let fonts = [
     "Arial",
     "Helvetica",
