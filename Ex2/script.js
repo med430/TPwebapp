@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.css';
+
 let fonts = [
     "Arial",
     "Helvetica",
